@@ -25,6 +25,9 @@
         "drupal/core-composer-scaffold": "^8",
         "drupal/core-project-message": "^8",
         "drupal/core-recommended": "^8",
+        "drupal/layout_builder_modal": "^1.1",
+        "drupal/layout_builder_restrictions": "^2.8",
+        "drupal/layout_builder_st": "^1.0@alpha",
         "drupal/tmgmt": "^1.11",
         "drupal/tmgmt_lilt": "dev-8.x-1.x",
         "drush/drush": "^10.3"
